@@ -35,7 +35,7 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 
-![https://github.com/oljapriya/Homewor---Work-Day-Scheduler/tree/master/Assets](./Assets/05-third-party-apis-homework-demo.gif)
+![](./Assets/05-third-party-apis-homework-demo.gif)
 
 
 ## Grading Requirements
